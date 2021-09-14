@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+    RewriteCond %{HTTP_HOST} ^cloud9homeshyd\.in$ [OR]
+    RewriteCond %{HTTP_HOST} ^www\.cloud9homeshyd\.in$
+    RewriteRule ^/?$ "https\:\/\/cloud9\.homes" [R=301,L]
+
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_FILENAME} !-l
+	RewriteRule ^(.*)$ index.php?/$1 [L,QSA]
+</IfModule>

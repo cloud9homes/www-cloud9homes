@@ -1,0 +1,34 @@
+﻿Index
+-----
+CompanyName: Cloud9Homes Serviced Apartments Hyderabad
+phone: +91-756-970-1493,  +91-970-148-8058
+email: contact@cloud9.homes
+
+Accommodations
+--------------
+SocialNetwork_linkedIn: www.linkedin.com/company/thecloud9homes
+SocialNetwork_instagram: www.instagram.com/TheCloud9Homes/
+SocialNetwork_facebook: www.facebook.com/TheCloud9Homes
+SocialNetwork_youtube: www.youtube.com/channel/UCVfFz8-Yqr6e2I8-xJl4FUQ
+SocialNetwork_twitter: twitter.com/TheCloud9Homes
+SocialNetwork_Pinterest: in.pinterest.com/cloud9homeshyd/cloud9homes-service-apartments-gallery/
+SocialNetwork_blog: cloud9.homes/blog
+SocialNetwork_whatsapp: wa.me/917569701493
+SocialNetwork_whatsapp_desks: wa.me/919390968342
+SocialNetwork_blog: cloud9.homes/blog/
+SocialNetwork_fbMessenger: m.me/Cloud9HomesServicedApartments
+
+Booking
+------
+BookingBannerTitle: Book Now
+BookingBannerText: Please contact for corporate bookings
+Booking_Whatsapp: +91 (756) - 970 - 1493
+Booking_Phone: +91 (756) - 970 - 1493
+Booking_Email: bookings@cloud9.homes
+Booking_Desks_Phone1: +91 (939) - 096 - 8342
+Booking_Desks_Email1: contact@cloud9.homes
+
+review
+------
+ReviewBannerTitle : Review
+
