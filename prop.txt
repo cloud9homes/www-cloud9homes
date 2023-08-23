@@ -1,7 +1,7 @@
 ﻿Index
 -----
-CompanyName: Cloud9Homes Serviced Apartments Hyderabad
-phone: +91-756-970-1493,  +91-970-148-8058
+CompanyName: Cloud9Homes Serviced Apartments
+phone: +91-756-970-1493 (Hitech City), +91-970-350-1101 (Gachibowli)
 email: contact@cloud9.homes
 
 Accommodations
