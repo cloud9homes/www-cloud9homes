@@ -689,3 +689,27 @@ color:blue;
 .carousel-slider {
     height: 150px;
 }
+
+/* Added for Event Space Thumbnail Gallery */
+.event-thumbnail {
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effect */
+  border: 1px solid #ddd; /* Basic border */
+  padding: 4px; /* Padding similar to .img-thumbnail */
+  background-color: #fff; /* Background color similar to .img-thumbnail */
+}
+
+.event-thumbnail:hover {
+  transform: scale(1.05); /* Slightly zoom in */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Add a bit more shadow */
+  border-color: #aaa; /* Darken border slightly */
+}
+
+/* Styling for the link, ensuring it behaves well with the thumbnail */
+.thumbnail-link {
+  display: inline-block; /* Or block, depending on desired layout within the grid cell */
+  text-decoration: none;
+}
+
+.thumbnail-link:hover {
+  text-decoration: none; /* No underline on hover for the link itself */
+}
