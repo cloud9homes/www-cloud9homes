@@ -1,49 +1,5 @@
 <?php
 $postTitle='All About Service Apartments';
-$postContent='A serviced apartment is a fully furnished apartment, available for both short term and long term stays, providing amenities for daily use, housekeeping and a range of other services, all included within the rental price.
-
-Whether travelling for business or leisure, alone, with a group or with family serviced apartments can offer a lot of benefits:
-
-**Space**
-Staying in a serviced apartment gives you the room to work, cook, relax and sleep and on average you can expect to enjoy 50% more space than an equivalent standard of hotel.  A typical one-bedroom service apartment is around twice the size of the average hotel room.
-
-**Value &amp; Save on Longer Stays**
-Serviced apartment prices are typically 20% less than hotel rates of the same standard.  There are no hidden extras (mini-bars, etc.) to be paid for either.  As serviced apartments comes with fully equipped kitchens it is convenient for longer stays to partially cook, or to heat water, milk, for cooking snacks, or making tea etc. We can feel like home in serviced apartments. Some service providers maintain even lighting same as we maintain in house.
-
-**Location, Location Location!**
-Serviced apartments are situated in great locations.  They can be found in every major city throughout the world.  Located in the heart of many tourist destinations as well as important business districts enables serviced apartments to meet the needs of various consumer groups!
-
-**Flexibility**
-You are free to come and go as you wish, enabling you to do things to meet your own schedule. The availability of the facilities in the apartment mean you can cook whenever you wish, work whenever you need to work, and there&rsquo;s the added space to entertain guests or hold business meetings all within your own private space and at times that suit.  You can often find apartments with several bathrooms and bedrooms which branch off from one central living area, this can work well for families, colleagues or groups travelling together.
-
-**Cooking &amp; Washing Facilities**
-Having your own kitchen is convenient, cost-effective and also great if you have special dietary requirements as you can self-cater.  At the very least, serviced apartments have communal laundries, but most have their own washer and dryers giving you the option of doing your own laundry.  Convenient and cost-saving!
-
-**Additional Facilities &amp; Services**
-If facilities such as gyms, pools, concierge, restaurants or bars are part of your travel needs many serviced properties offer these and more, often rivalling the facilities offered by hotels.  Serviced apartments make a great alternative!
-
-**Additional Services**
-Many properties offer the chance to order bespoke hampers or welcome packs for your arrival as well as the availability of shopping services where you can pre-select goods for delivery.  Rather than spending lots on the in-room mini bar you can buy and keep whatever snacks and drinks you like.
-
-**Quality**
-Don&rsquo;t dismiss apartments as being boring box rooms.  There is an array of apartments available, from the budget to the luxury, with plush interiors and top-quality furnishings.  Apartments offer a fully equipped kitchen, high quality bed linen, towels and toiletries.  First class home entertainment facilities are available with many offering Tata Sky and entertainment packages.
-
-**Free Wi-Fi**
-Many serviced apartment providers offer free Wi-Fi to their guests as standard practice.
-
-**Meeting Spaces**
-You can use the space in your apartment to host small business meetings around the dining table in your apartment.  Some providers also have onsite meeting rooms or will assist you in booking external space as needed
-
-**Easy To Book**
-Providers offer their own online booking facilities as well as apartments being available via online booking agents.
-
-**Privacy**
-Serviced apartments generally offer a greater degree of privacy. Apartments allow you to bypass the formalities and in many cases you simply can let yourself in and make yourself at home! A reduced maid service means your apartment can be kept clean but you can retain privacy without constant interruptions.
-
-**Security**
-By their very nature, serviced apartments are private, self-contained accommodations.  In addition you will find that they&rsquo;re complete with 24 hour CCTV, secure entry and often around the clock security staff.
-
-**Home from home**
-Serviced apartments give you the home from home experience that you do not get in hotels or guest houses, you have the space, the room and the flexibility which is perfect for leisure or business travellers.';
+$postContent='<p>A serviced apartment is your fully furnished home away from home, perfect for any trip length. Enjoy daily amenities, housekeeping, and more—all included in the rental price.</p><p>Discover the key benefits for business, leisure, solo, or group travel:</p><h4>Space</h4><p><strong>More Room to Live:</strong> Enjoy up to 50% more space than a hotel room. Work, cook, relax, and sleep comfortably. A typical one-bedroom apartment doubles the space of an average hotel room.</p><h4>Value &amp; Save on Longer Stays</h4><p><strong>Smarter Value, Especially for Longer Stays:</strong> Typically 20% cheaper than comparable hotels, with no hidden fees. Full kitchens mean you can cook and feel at home, saving on dining costs.</p><h4>Location, Location Location!</h4><p><strong>Prime Locations Worldwide:</strong> Find us in major cities, right in the heart of tourist spots and business hubs. Perfectly situated for every traveler.</p><h4>Flexibility</h4><p><strong>Live On Your Schedule:</strong> Cook, work, or entertain when it suits you. Multi-bedroom/bathroom options are great for families or groups.</p><h4>Cooking &amp; Washing Facilities</h4><p><strong>Cook &amp; Do Laundry With Ease:</strong> Enjoy the convenience of your own kitchen—perfect for dietary needs and saving money. Most apartments include in-unit washers and dryers.</p><h4>Additional Facilities &amp; Personalized Services</h4><p><strong>Hotel-Like Amenities &amp; Personalized Services:</strong> Many properties offer gyms, pools, concierge services, and more. Request welcome hampers or shopping services for a personalized touch. Stock your own snacks and drinks, avoiding pricey mini-bars.</p><h4>Quality</h4><p><strong>Quality &amp; Comfort Assured:</strong> From budget-friendly to luxury, find stylish interiors and top-quality furnishings. Expect fully equipped kitchens, premium linens, toiletries, and excellent home entertainment.</p><h4>Free Wi-Fi</h4><p><strong>Stay Connected: Free Wi-Fi:</strong> Reliable internet access comes standard in most of our serviced apartments.</p><h4>Meeting Spaces</h4><p><strong>Work &amp; Meet Effectively:</strong> Host small meetings in your apartment or use available onsite/offsite meeting rooms.</p><h4>Easy To Book</h4><p><strong>Simple Booking Process:</strong> Book directly online or through your preferred booking agents.</p><h4>Privacy</h4><p><strong>Your Private Sanctuary:</strong> Enjoy more privacy than a hotel. Come and go as you please, with housekeeping services designed to minimize interruptions.</p><h4>Security</h4><p><strong>Safe &amp; Secure:</strong> Our private, self-contained apartments feature 24-hour CCTV, secure entry, and often, round-the-clock security personnel.</p><h4>Home from home</h4><p><strong>The True Home Away From Home:</strong> Experience the space, freedom, and flexibility that hotels can\'t match. Perfect for both leisure and business.</p>';
 $postDate=1608461760;
 ?>

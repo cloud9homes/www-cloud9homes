@@ -104,7 +104,7 @@ ul.styleAccomadation li {
     border-width: 2px;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    border-radius: 0px;
+    border-radius: 4px;
 }
 
 /*.btn.btn-sm {
@@ -116,6 +116,7 @@ ul.styleAccomadation li {
     background-image: none;
     background-color: transparent;
     border-color: white;
+    transition: all 0.3s ease;
 }
 
 .btn-outline-black {
@@ -148,7 +149,7 @@ section {
 
 h3, .h3 {
     font-size: 22px;
-    font-weight: bold;
+    font-weight: 600;
     /*font-family: cursive;*/
 }
 
@@ -230,7 +231,7 @@ td {
 .navbar-default .navbar-nav > li > a {
     color: #fff;
     font-size: 14px;
-    font-weight: bold;
+    font-weight: 600;
     font-family: 'Exo 2'  !important;
 }
 
@@ -334,7 +335,7 @@ float:left;
         font-size: 30px;
     }
     .indexbannerfonth4{
-        font-size: 32px;
+        font-size: 24px;
     }
     
 }
